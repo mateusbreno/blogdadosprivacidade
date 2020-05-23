@@ -1,0 +1,106 @@
+/*!
+* Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+* Copyright 2013-2019 Start Bootstrap
+* Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+*/
+body {
+padding-top: 56px;
+}
+.idmenu {
+text-decoration: none !important;
+padding: 15px;
+font-size: 20px;
+}
+a.navbar-brand {
+font-size: 25px;
+color: #007bff !important;
+}
+.principal {
+margin-top: 70px;
+}
+a:hover {
+color: #fff !important;
+}
+.fixed-top {
+height: 100px !important;
+}
+.menu-postagem {
+margin-top: 100px;
+
+margin-bottom: 80px;
+}
+.number {
+margin-bottom: 2px;
+margin-top: 10px;
+}
+a.title:hover {
+
+color: #007bff !important;
+}
+.divForm {
+padding-left: 550px;
+width: auto !important;
+}
+.logout {
+text-align: center;
+}
+.divLogout {
+height: 411px;
+}
+.form {
+backdrop-filter: brightness(0.5);
+padding-top: 50px;
+padding-bottom: 50px;
+width: 400px;
+margin-left: 360px;
+
+}
+.form1 {
+backdrop-filter: brightness(0.5);
+width: 400px;
+margin-left: 370px;
+text-align: center;
+
+}
+.menu {
+text-align: end;
+}
+.divPostagem {
+height: 442px;
+}
+.menu a {
+margin: 10px;
+}
+form,
+
+label {
+display: block;
+padding: 10px;
+}
+form {
+width: 380px;
+margin: 10px;
+}
+label {
+color: #FFF;
+
+}
+input {
+display: inline-block;
+padding-left: 10px;
+}
+.telamoderacao {
+height: 411px !important;
+}
+.bemvindo {
+backdrop-filter: brightness(0.5);
+}
+.protecao {
+margin-top: 70px;
+}
+.filho2 {
+margin-left: 50px;
+}
+.filho3 {
+margin-left: 100px;
+}
